@@ -7,13 +7,28 @@ ML Studio is a modern, ergonomic, and professional Machine Learning dashboard bu
 ## ✨ Features
 
 ### 📊 1. Intelligent Dashboard
-- **Quick Insights**: Real-time summary cards for dataset statistics (samples, features, average precision).
-- **Interactive Visualizations**: Progress charts and model comparison bars using Recharts.
-- **Recent Activity**: Track the latest trained models and experiment summaries.
+- **Quick Insights**: Real-time summary cards for dataset statistics.
+- **Interactive Visualizations**: Progress charts and model comparison bars.
+
+![Dashboard Screenshot](src/assets/screenshots/dashboard.png)
 
 ### 🔍 2. Dataset Exploration
-- **Smart Data Table**: Explore the Energy Efficiency dataset with sortable and paginated views.
-- **Statistical Analysis**: Feature distributions via histograms and correlation heatmaps to understand variable relationships.
+- **Smart Data Table**: Explore the Energy Efficiency dataset.
+- **Statistical Analysis**: Feature distributions via histograms.
+
+![Dataset Screenshot](src/assets/screenshots/dataset.png)
+
+### 🤖 4. Model Laboratory
+- **Algorithm Variety**: SVM, Random Forest, KNN, and more.
+- **Hyperparameter Tuning**: Intuitive sliders and tuning options.
+
+![Models Screenshot](src/assets/screenshots/models.png)
+
+### 📈 5. Evaluation & MLOps
+- **Performance Metrics**: Precision, Recall, and F1-Score analysis.
+- **Visual Analytics**: Confusion Matrix and ROC Curves.
+
+![Evaluation Screenshot](src/assets/screenshots/evaluation.png)
 
 ### 🧹 3. Data Cleaning Suite
 - **Preprocessing Tools**: Handle missing values, remove duplicates, and apply feature scaling (StandardScaler, MinMaxScaler) with a few clicks.
