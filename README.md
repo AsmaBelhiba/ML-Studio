@@ -50,7 +50,7 @@ ML Studio is a modern, ergonomic, and professional Machine Learning dashboard bu
 
 - **Frontend**: React (Vite), Tailwind CSS (v4), Framer Motion.
 - **Visualization**: Recharts, Lucide React (Icons).
-- **Backend (Compatible)**: Designed to work with FastAPI/Flask endpoints.
+- **Backend (Compatible)**: Django/FastAPI.
 
 ## 🚀 Getting Started
 
